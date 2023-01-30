@@ -5,3 +5,5 @@ I'm a web developer living and working in the Twin Cities, Minnesota. I've been 
 - 🔭 I’m currently working as a Software Engineer on [Surgio](https://github.com/surgiollc), solutions to prevent Surgical Site Infections through digital governance of the sterilization processes
 - 🌱 I’m currently learning cybersecurity on [TryHackMe](https://tryhackme.com/p/arippberger336) and studying for my Security+ certificate
 - ⚡ Fun fact: A piece of surfaced 2x4 lumber actually measures 1½ inches thick and 3½ inches wide.
+ 
+ ![Alec Rippberger TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/arippberger336.png)
