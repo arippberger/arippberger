@@ -4,6 +4,8 @@
 
 I'm a web developer living and working in the Twin Cities, Minnesota. I've been working in IT on projects big and small for over a decade. I'm currently working on supplementing my developer knowledge with cyber security and dev ops concepts. In my free time I enjoy spending time with my family, the great outdoors and tinkering.
 
+I work at [Livefront](https://livefront.com) and my work GitHub is [alec-livefront](https://github.com/alec-livefront).
+
 ### Some technology I've used or am interested in 
 
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
